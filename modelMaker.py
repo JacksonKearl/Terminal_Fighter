@@ -1,4 +1,7 @@
 # This script allows you to make and export models
+# use store instead of deepcopy, revise init function &
+# local variables, move print module to update, chnage
+# naming.
 
 import makeRender, printToTerminal, terminalSize, getch, math, copy
 
